@@ -15,7 +15,7 @@ Intermediate
 - Provide a possible sentence structure
 - The table of vocabulary should only have the following columns: Spanish, English
 
-## student Input: 
+## Student Input: 
 Bears are at the door, did you leave the garbage out?
 
 ## Examples:
@@ -108,5 +108,5 @@ Here are examples of user input and assistent output, pay attention to the score
 </example>
 
 
-## student Input: 
+## Student Input: 
 Did you see the raven this morning? They were looking at our garden.
